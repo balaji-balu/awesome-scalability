@@ -1,10 +1,10 @@
 # awesome-scalability
 
-[*****]
+
 [Scaling webapps for newbs & non-techies](https://arcentry.com/blog/scaling-webapps-for-newbs-and-non-techies/)
+Rating:***** Added: 4 Aug 2018
 
-
-[Awesome scalability - binhnguyennusScaling webapps for newbs & non-techies](https://github.com/binhnguyennus/awesome-scalability)
+[Awesome scalability - binhnguyennus](https://github.com/binhnguyennus/awesome-scalability)
 
 [open source Database HA resources - severalnines](http://highscalability.com/blog/2018/6/8/open-source-database-ha-resources-from-severalnines.html)
 
