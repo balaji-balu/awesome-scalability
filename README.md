@@ -1,6 +1,6 @@
 # awesome-scalability
 
-'*****'
+[*****]
 [Scaling webapps for newbs & non-techies](https://arcentry.com/blog/scaling-webapps-for-newbs-and-non-techies/)
 
 
