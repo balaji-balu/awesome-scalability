@@ -18,4 +18,4 @@ Rating:***** Added: 4 Aug 2018
 ## Distributed systems
 [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=277s) video
 
-[Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM&t=1339s)
+[Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM&t=1339s) video
