@@ -1,6 +1,8 @@
 # awesome-scalability
 
 
+[This Is My Architecture: Innovative cloud architectures from AWS partners and customers](https://aws.amazon.com/this-is-my-architecture/) 2 Sept 2018
+
 [Scaling webapps for newbs & non-techies](https://arcentry.com/blog/scaling-webapps-for-newbs-and-non-techies/)
 Rating:***** Added: 4 Aug 2018
 
