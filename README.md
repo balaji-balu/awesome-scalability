@@ -23,3 +23,7 @@
 [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM&t=1339s) video
 
 [Notes on Distributed Systems for young bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/) list of some lessons I’ve learned as a distributed systems engineer that are worth being told to a new engineer. 
+
+## Resilence
+
+[Patterns for Resilent Architecture - part 3](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-3-16e8601c488e)
